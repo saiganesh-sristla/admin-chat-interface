@@ -80,4 +80,4 @@ src/
 
 ## Live Demo
 
-Visit the live demo at: [https://admin-chat-interface.demo.com](https://admin-chat-interface.demo.com)
+Visit the live demo at: [https://admin-chat-interface.vercel.app/](https://admin-chat-interface.vercel.app/)
